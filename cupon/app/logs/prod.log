@@ -1,0 +1,1 @@
+[2012-11-08 11:52:54] request.ERROR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: No route found for "GET /sitio/privacidad" (uncaught exception) at /www/htdocs/jlozano/cupon/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/EventListener/RouterListener.php line 92 [] []

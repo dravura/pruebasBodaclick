@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: /www/htdocs/jlozano/cupon/app/config/routing_dev.yml
